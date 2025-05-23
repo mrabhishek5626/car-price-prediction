@@ -1,2 +1,2 @@
 # Car-Price-Prediction
-Using Machine Learning With Python
+Using Machine Learning and Python
